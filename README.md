@@ -11,7 +11,7 @@ Coding resources and examples for the EEP project.
 - [Resources](/Resources): A folder of resources you can use to learn different programming languages and tools.
   - [Jupyter Notebooks](/Resources/Jupyter-Notebooks): Learn how to use Jupyter Notebooks to write and run your code.
   - [Git](/Resources/Git): Learn how to use Git and GitHub to implement version control for your programmes.
-  - [Python](/ResourcesPython/): Learn how to use Python to write your programmes.
+  - [Python](/Resources/Python/): Learn how to use Python to write your programmes.
   
 
     
