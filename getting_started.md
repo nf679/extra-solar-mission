@@ -8,7 +8,7 @@ Here's a checklist of things to do to start learning the relevant programming sk
 - Go through the [Python Notebooks](Resources/Python/Notebooks) to learn the basics of Python.
 
 
-## Optional
+## Optional
 
 - (Optional) Go through our [Intro to Git and GitHub](Resources/Git/Notebooks/01_introduction.ipynb) notebook to find out what Git and GitHub are.
 - (Optional) Create a GitHub account - see our [Create An Account](Resources/Git/Notebooks/02_create_account.ipynb) notebook.
