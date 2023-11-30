@@ -2,8 +2,8 @@
 
 Here's a checklist of things to do to start learning the relevant programming skills. If you're familiar with any of the software, feel free to skip the tutorials.
 
-- Go through the [Setting up your Monty account](Resources/Jupyter_Notebooks/01_Monty.ipynb) notebook to get started with using Monty.
-- Go through the [Downloading the Notebooks to Monty](Resources/Jupyter_Notebooks/02_download_notebooks.ipynb) tutorial to import these notebooks into your Monty file system.
+- Go through the [Setting up your Monty account](Resources/Jupyter-Notebooks/01_Monty.ipynb) notebook to get started with using Monty.
+- Go through the [Downloading the Notebooks to Monty](Resources/Jupyter-Notebooks/02_download_notebooks.ipynb) tutorial to import these notebooks into your Monty file system.
 - Go through the [Jupyer Notebooks Tutorial](Resources/Jupyter_Notebooks/03_using_notebooks.ipynb) to learn how Jupyter Notebooks work.
 - Go through the [Python Notebooks](Resources/Python/exercises) to learn the basics of Python.
 
